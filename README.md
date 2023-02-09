@@ -32,9 +32,9 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
- 1 María Juliana Paredes, Student No. 1 <mj.paredesa1@uniandes.edu.co>, Student No. 1 owned functionality.
- 2 , Valeria Cardenas, <v.cardenasf@uniandes.edu,co>, Student No. 2 owned functionality.
- 3 Simón De Zubiría, Student No. 3 <s.dezubiria@uniandes.edu.co>, Student No. 3 owned functionality.
+ 1 María Juliana Paredes, <mj.paredesa1@uniandes.edu.co>, 202014659
+ 2 Valeria Cardenas, <v.cardenasf@uniandes.edu,co>, 202212171
+ 3 Simón De Zubiría, <s.dezubiria@uniandes.edu.co>, 202020978
 [Back to top](#sample-list)
 
 <!-- ABOUT THE PROJECT -->
